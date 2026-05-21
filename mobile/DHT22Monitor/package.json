@@ -9,7 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~54.0.33",
+    "expo": "~55.0.25",
     "expo-status-bar": "~3.0.9",
     "firebase": "^12.13.0",
     "moment": "^2.30.1",
