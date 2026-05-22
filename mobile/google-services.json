@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "83200336745",
+    "firebase_url": "https://dht-monitor-69917-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dht-monitor-69917",
+    "storage_bucket": "dht-monitor-69917.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83200336745:android:8ec6e01903a2741ea353f8",
+        "android_client_info": {
+          "package_name": "com.dht.monitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6se8-V09v5EZCZZzSAVUTL4ZSVaIwUig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

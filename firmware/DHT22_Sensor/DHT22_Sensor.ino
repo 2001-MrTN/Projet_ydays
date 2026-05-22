@@ -43,7 +43,7 @@ void setup() {
   WiFi.begin(ssid, password);
   Serial.print("Connexion WiFi");
   while (WiFi.status() != WL_CONNECTED) {
-    delay(500);
+    delay(1000);
     Serial.print(".");
   }
   Serial.println("\nWiFi connecté !");
@@ -61,5 +61,5 @@ void loop() {
 
   Serial.printf("Temp: %.1f°C | Hum: %.1f%%\n", temperature, humidity);
   sendToFirebase(temperature, humidity);
-  delay(10000);
+  delay(9000);
 }
